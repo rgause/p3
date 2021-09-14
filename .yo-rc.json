@@ -41,6 +41,26 @@
     "clientTheme": "none",
     "clientThemeVariant": "",
     "withAdminUi": true,
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "entities": [
+      "TenantType",
+      "Tenant",
+      "URLType",
+      "URL",
+      "TenantPropertyKey",
+      "TenantProperty",
+      "LanUser",
+      "TenantUser",
+      "WorkTemplate",
+      "WorkTemplateItem",
+      "WorkTemplateItemPreReq",
+      "WorkQueueTenant",
+      "WorkQueueTenantData",
+      "WorkQueueTenantPreReq",
+      "WorkQueueTenantUser",
+      "WorkQueueTenantUserData",
+      "WorkQueueTenantUserPreReq"
+    ],
+    "lastLiquibaseTimestamp": 1631642785000
   }
 }
